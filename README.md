@@ -1,2 +1,1 @@
-Spotify-Clone.
-It is made using HTML and CSS Only.
+It is a Spotify-Clone made using HTML and CSS Only.
